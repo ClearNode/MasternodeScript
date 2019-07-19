@@ -4,7 +4,7 @@ If you have old script, you have to remove it first for updated wallet installat
 
 rm masternodeinstall.sh
 
-wget -q https://raw.githubusercontent.com/ClearNode/MasternodeScript/blob/master/masternodeinstall.sh
+wget -q https://raw.githubusercontent.com/ClearNode/MasternodeScript/master/masternodeinstall.sh
 
 sudo chmod +x masternodeinstall.sh
 
